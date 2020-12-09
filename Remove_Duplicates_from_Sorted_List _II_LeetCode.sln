@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove_Duplicates_from_Sorted_List _II_LeetCode", "Remove_Duplicates_from_Sorted_List _II_LeetCode\Remove_Duplicates_from_Sorted_List _II_LeetCode.csproj", "{4945BD05-4ECE-495A-BB5A-A89D4E236597}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4945BD05-4ECE-495A-BB5A-A89D4E236597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4945BD05-4ECE-495A-BB5A-A89D4E236597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4945BD05-4ECE-495A-BB5A-A89D4E236597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4945BD05-4ECE-495A-BB5A-A89D4E236597}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8716A687-873F-4C41-82D5-0D36FA0E2B7E}
+	EndGlobalSection
+EndGlobal
